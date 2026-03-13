@@ -8,7 +8,7 @@ This audit analyzes campaign efficiency across 12 months of marketing spend. The
 ---
 
 ##  Project Deliverables
-* **[Interactive Executive Report ()](marketing_project.html)** — *Best for Stakeholders*
+* **[Interactive Executive Report](marketing_project.html)** or visit https://maria1681.github.io/marketing_project.html — *Best for Stakeholders*
 * **[Technical Analysis Notebook](./marketing_project.ipynb)** — *View Python Logic*
 * **[Raw Dataset](./marketing_campign.csv)** — *View Source Data*
 
@@ -21,7 +21,7 @@ This audit analyzes campaign efficiency across 12 months of marketing spend. The
 | **Data Manipulation** | Pandas, NumPy |
 | **Data Visualization** | Seaborn, Matplotlib |
 | **Reporting** | Jupyter nbconvert (HTML/PDF) |
-| **Environment** | Jupyter Notebook / VS Code |
+| **Environment** | Jupyter Notebook  |
 
 ---
 
