@@ -37,4 +37,4 @@ This audit analyzes campaign efficiency across 12 months of marketing spend. The
 * `marketing_project.html`: A code-hidden export for professional presentation.
 
 ---
-**Contact:** [Your Name/LinkedIn Link]
+**Contact:** [LinkedIn](https://www.linkedin.com/in/maria-aslam-458860316/)
